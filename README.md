@@ -85,7 +85,6 @@ GNU General Public License version 2 or later
 
 see [LICENSE](LICENSE) file
 
-
 ## Donate to ibnux
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
@@ -103,6 +102,7 @@ a.n Ibnu Maksum
 - [https://github.com/sonyinside](https://github.com/sonyinside)
 
 ## Thanks
+
 We appreciate all people who are participating in this project.
 
 <a href="https://github.com/hotspotbilling/phpnuxbill/graphs/contributors">
